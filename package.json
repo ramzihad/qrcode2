@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "dynamsoft-javascript-barcode": "7.3.0-v2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "path": "^0.12.7"
   }
 }
